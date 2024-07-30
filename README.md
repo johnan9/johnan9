@@ -5,6 +5,8 @@
 - <b>Help Desk</b>
   - [Jira Ticketing System]
  
+<h2> 📘 Certification:</h2>
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/93ff18ee-6195-4163-8e74-3c33c88714a4/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
