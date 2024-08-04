@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT support:</h2>
 
 - <b>Help Desk</b>
-  - [Jira Ticketing System]
+  - [osTicket System]
  
 <h2> 📘 Certification:</h2>
 
