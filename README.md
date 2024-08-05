@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT support:</h2>
 
 - <b>Help Desk</b>
-  - [osTicket System]
+  - [osTicket System - Installation](https://github.com/HuneyJar/osTicket-Installation)
  
 <h2> 📘 Certification:</h2>
 
