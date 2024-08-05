@@ -1,4 +1,4 @@
-<h1>Hi, I'm John. These are my personal projects!<br/></h1>
+<h1>Hi, I'm John, an IT Professional<br/></h1>
 
 <h2>👨‍💻 IT support:</h2>
 
