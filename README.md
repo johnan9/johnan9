@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT support:</h2>
 
-- <b>Help Desk</b>
+- <b>Help Desk Ticketing System</b>
   - [osTicket System - Installation](https://github.com/HuneyJar/osTicket-Installation)
  
 <h2> 📘 Certification:</h2>
