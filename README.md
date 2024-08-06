@@ -5,8 +5,11 @@
 - <b>Help Desk Ticketing System</b>
   - [osTicket System - Installation](https://github.com/HuneyJar/osTicket-Installation)
   - [osTicket System - Post-Installation-Setup](https://github.com/HuneyJar/osTicket-Post-Installation-Setup)
+  - [osTicket System - Ticket and Ticket Lifecycle Examples](https://github.com/HuneyJar/osTicket-Ticket-Lifecycle)
     
- 
+- <b>Active Directory</b>
+  - Active Directory on Azure - Installation(in-progress)
+    
 <h2> 📘 Certification:</h2>
 
 - Comptia A+ Certification (in-progress)
