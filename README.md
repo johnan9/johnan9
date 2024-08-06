@@ -4,7 +4,7 @@
 
 - <b>Help Desk Ticketing System</b>
   - [osTicket System - Installation](https://github.com/HuneyJar/osTicket-Installation)
-  - [osTicket System - Post-Installation](https://github.com/HuneyJar/osTicket-Post-Installation)
+  - [osTicket System - Post-Installation-Setup](https://github.com/HuneyJar/osTicket-Post-Installation)
     
  
 <h2> 📘 Certification:</h2>
