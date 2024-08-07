@@ -8,11 +8,11 @@
   - [osTicket System - Ticket Lifecycle Scenario](https://github.com/HuneyJar/osTicket-Ticket-Lifecycle)
     
 - <b>Active Directory</b>
-  - [Active Directory (on-premise) on Azure - Setup](https://github.com/HuneyJar/ActiveDirectory-Setup)
+  - [Active Directory (on-premise) on Azure - Setup (In-progress)](https://github.com/HuneyJar/ActiveDirectory-Setup)
     
 <h2> 📘 Certification:</h2>
 
-- Comptia A+ Certification (in-progress)
+- Comptia A+ Certification (In-progress)
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/93ff18ee-6195-4163-8e74-3c33c88714a4/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
