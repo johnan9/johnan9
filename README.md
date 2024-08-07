@@ -8,7 +8,7 @@
   - [osTicket System - Ticket Lifecycle Scenario](https://github.com/HuneyJar/osTicket-Ticket-Lifecycle)
     
 - <b>Active Directory</b>
-  - Active Directory on Azure - Installation(in-progress)
+  - [Active Directory (on-premise) on Azure - Setup](https://github.com/HuneyJar/ActiveDirectory-Setup)
     
 <h2> 📘 Certification:</h2>
 
