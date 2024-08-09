@@ -9,6 +9,7 @@
     
 - <b>Active Directory</b>
   - [Active Directory (on-premise) on Azure - Setup (In-progress)](https://github.com/HuneyJar/ActiveDirectory-Setup)
+  - [Network Security Groups (NSG) and Share Permissions]()
     
 <h2> 📘 Certification:</h2>
 
