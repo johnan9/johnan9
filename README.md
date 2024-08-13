@@ -8,7 +8,7 @@
   - [osTicket System - Ticket Lifecycle Scenario](https://github.com/HuneyJar/osTicket-Ticket-Lifecycle)
     
 - <b>Azure</b>
-  - [Active Directory (on-premise) on Azure - Setup (In-progress)](https://github.com/HuneyJar/ActiveDirectory-Setup)
+  - [Active Directory (on-premise) on Azure - Setup](https://github.com/HuneyJar/ActiveDirectory-Setup)
   - [Network Security Groups (NSG) and Share Permissions](https://github.com/HuneyJar/NSG-and-Share-Permissions)
     
 <h2> 📘 Certification:</h2>
