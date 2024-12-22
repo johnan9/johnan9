@@ -15,6 +15,7 @@
 
 - CompTIA A+
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/93ff18ee-6195-4163-8e74-3c33c88714a4/linked_in_profile)
+- MS-102: Microsoft 365 Administrator Expert (in-progress)
 - CCNA (in-progress)
 <h2> 🤳 Connect with me:</h2>
 
