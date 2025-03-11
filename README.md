@@ -15,8 +15,7 @@
 
 - CompTIA A+
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/93ff18ee-6195-4163-8e74-3c33c88714a4/linked_in_profile)
-- MS-102: Microsoft 365 Administrator Expert (in-progress)
-- CCNA (in-progress)
+- CompTIA Security+ (in-progress)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="HuneyJar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
