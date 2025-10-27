@@ -1,8 +1,9 @@
-<h1>Hi, I'm John, an IT Professional<br/></h1>
-<h2>👨‍💻 Cybersecurity:</h2>
+<h1>Hi, I'm John, an IT Professional, pursuing Network Engineering and Network Security<br/></h1>
 
+<h2>👨‍💻 Projects:</h2>
 
-<h2>👨‍💻 IT support:</h2>
+- <b>Cybersecurity</b>
+  - [Cybersecurity Aduit and Remediation](https://github.com/johnan9/Cybersecurity-Audit-and-Remediation)
 
 - <b>Help Desk Ticketing System</b>
   - [osTicket System - Installation](https://github.com/HuneyJar/osTicket-Installation)
