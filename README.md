@@ -1,19 +1,23 @@
-<h1>Hi, I'm John, an IT Professional, pursuing Network Engineering and Network Security<br/></h1>
+<h1>Hi, I'm John, an IT Professional, pursuing Network Engineering & Security<br/></h1>
+
 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity</b>
   - [Cybersecurity Aduit and Remediation](https://github.com/johnan9/Cybersecurity-Audit-and-Remediation)
 
+    
+- <b>Azure</b>
+  - [Active Directory (on-premise) on Azure - Setup](https://github.com/HuneyJar/ActiveDirectory-Setup)
+  - [Network Security Groups (NSG) and Share Permissions](https://github.com/HuneyJar/NSG-and-Share-Permissions)
+
+    
 - <b>Help Desk Ticketing System</b>
   - [osTicket System - Installation](https://github.com/HuneyJar/osTicket-Installation)
   - [osTicket System - Post-Installation-Setup](https://github.com/HuneyJar/osTicket-Post-Installation-Setup)
   - [osTicket System - Ticket Lifecycle Scenario](https://github.com/HuneyJar/osTicket-Ticket-Lifecycle)
     
-- <b>Azure</b>
-  - [Active Directory (on-premise) on Azure - Setup](https://github.com/HuneyJar/ActiveDirectory-Setup)
-  - [Network Security Groups (NSG) and Share Permissions](https://github.com/HuneyJar/NSG-and-Share-Permissions)
-    
+
 <h2> 📘 Certification:</h2>
 
 - CompTIA Security+
